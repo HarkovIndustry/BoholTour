@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
               <p class="lead">As a proud resident and developer of this project, I, Jhon Anthony Pano, am dedicated to providing you with the best information and tips to make your visit to Bohol truly special. <a href="https://harkovindustry.github.io/JPano-Portfolio/" target="_blank" class="text-primary fw-bold">View Developer's Portfolio</a></p>
           </div>
           <div class="col-lg-4 col-md-5 mb-4 text-center">
-              <img src="../images/profile.png" class="img-fluid rounded-circle" alt="Jhon Anthony Pano">
+              <img src="images/profile.png" class="img-fluid rounded-circle" alt="Jhon Anthony Pano">
           </div>
       </div>
   `;
